@@ -9,3 +9,13 @@
 본 페이지의 원본은 아래의 페이지에 있습니다.
 
 > https://github.com/google/agera
+
+
+## 공동번역
+
+* [MishkaOwner](https://github.com/mishkaowner)
+* [Youngchan](https://github.com/leeyc09)
+* [Hyunwoo Park](https://github.com/eyeahs)
+* [moka](https://github.com/moka-a)
+* [Jihong Park (ggikko)](https://github.com/ggikko)
+* [myeongin](https://github.com/myeonginwoo)
